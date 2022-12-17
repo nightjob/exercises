@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "prompt-promise": "^1.0.3"
+  },
+  "name": "exercises",
+  "description": "Let's combine everything we know.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightjob/exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nightjob/exercises/issues"
+  },
+  "homepage": "https://github.com/nightjob/exercises#readme"
+}
