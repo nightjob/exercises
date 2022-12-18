@@ -12,8 +12,10 @@ You can use whatever folder structure you like other than that. For instance, `e
 On to the exercises!
 
 1. Using the `prompt-promise` npm library, ask the user a math question, ie: "What is 5 + 7?". Verify the user has provided answer, and if not, tell the user it is incorrect. The user can have a maximum amount of guesses of 3 - after that, they can no longer guess and the program should exit. If the user is correct, let them know, and the program should exist.
+`complete`
 
 2. Write a function that takes a minimum number and a maximum number, and using a for loop, log out all odd numbers between the min and the max, NOT including the min or max themselves.
+`complete`
 
 3. Mock out some functionality of Steam.
    a) Declare a class `Game` that takes two arguments in it's constructor, `name` and `price`.
@@ -24,6 +26,7 @@ On to the exercises!
    d) Write a function on that SteamUser class that lets a user wishlist a game. If they already own it, throw an error.
    e) Write a function on that SteamUser that logs out a SteamUser's games alphabetically.
    f) Change the function you wrote in `e)` to take a single argument, `sortType`, to let the user decide to sort them alphabetically or by price. Change the function to use that sortType and sort appropriately based on it.
+`started`
 
 4. Let's monitor Ethereum activity in real time!
    a) Sign up for a free Infura account.
@@ -34,3 +37,4 @@ On to the exercises!
    - Current chain id
 
    c) Using the `prompt-promise` npm library, prompt a user to provide an ethereum address, and then: - Display the Ethereum balance of that account to the user in the terminal. If it is not a valid ethereum address, display an error. The balance should be converted from `wei` to `ether`. - Display the transaction count of that account to the user in the terminal.
+`started`
